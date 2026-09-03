@@ -60,7 +60,7 @@
 
                 <div class="hero-text">
 
-                    <p class="subtitle">FRONTEND DEVELOPMENT PROJECT 2</p>
+                    <p class="subtitle">Build Websites That Adapt Everywhere</p>
 
                     <h1>
                         Build Websites That

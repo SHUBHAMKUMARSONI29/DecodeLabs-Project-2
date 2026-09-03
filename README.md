@@ -60,4 +60,5 @@ responsive-web-project/
 
 ## 👨‍💻 Author
 
-Your Name
+shubham kumar soni
+
